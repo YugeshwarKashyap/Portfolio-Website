@@ -1,6 +1,6 @@
 
 [{
-    "name": "Hulu Website",
+    "name": "",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
     "image": "yugeshwar",
     "category": "mern",
@@ -10,7 +10,7 @@
     }
 },
     {
-        "name": "Hulu Website",
+        "name": "",
         "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
         "image": "yugeshwar",
         "category": "mern",
